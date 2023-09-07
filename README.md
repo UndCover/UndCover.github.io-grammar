@@ -1,4 +1,8 @@
-# [旋元佑进阶语法](http://grammar.codeyu.com)
+# 旋元佑进阶语法
+
+修改自开源项目[旋元佑进阶语法](http://grammar.codeyu.com)
+
+变更所有台湾术语到大陆术语，保留原有版本可在原文档地址后追加`-tc`进行访问，例如:大陆版本`https://undcover.github.io/grammar/#docs/SimpleSentences`，台湾版本`https://undcover.github.io/grammar/#docs-tc/SimpleSentences`
 
 ﹝台﹞旋元佑 著
 
