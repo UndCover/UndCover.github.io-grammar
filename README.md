@@ -4,6 +4,8 @@
 
 变更所有台湾术语到大陆术语，保留原有版本可在原文档地址后追加`-tc`进行访问，例如:大陆版本`https://undcover.github.io/grammar/#docs/SimpleSentences`，台湾版本`https://undcover.github.io/grammar/#docs-tc/SimpleSentences`
 
+---
+
 ﹝台﹞旋元佑 著
 
 英文语法是英文写作必备的基础。写作牵涉到的问题可说千头万绪，小自用字、中间经过句子、大到文章组织，每一个环节都必须处理得当。在「听、说、读、写」的英文学习过程中，写作一向是最后、也最困难的一步。
